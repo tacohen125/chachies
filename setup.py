@@ -51,12 +51,12 @@ setup(
         'PeakUtils==1.1.1',
         'python-dateutil==2.7.0',
         'pytz==2018.3',
-        'requests==2.18.4',
+        'requests==2.20.0',
         'scikit-learn==0.19.1',
         'scipy==1.0.0',
         'six==1.11.0',
         'sklearn==0.0',
-        'urllib3==1.22',
+        'urllib3==1.23',
         'xlrd==1.1.0',
         'dash==0.21.0',  # The core dash backend
         'dash-renderer==0.11.3',  # The dash front-end
