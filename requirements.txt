@@ -12,7 +12,7 @@ scikit-learn==0.19.1
 scipy==1.0.0
 six==1.11.0
 sklearn==0.0
-urllib3==1.23
+urllib3==1.24.2
 xlrd==1.1.0
 dash==0.21.0
 dash-renderer==0.11.3
