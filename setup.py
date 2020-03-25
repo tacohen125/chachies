@@ -56,7 +56,7 @@ setup(
         'scipy==1.0.0',
         'six==1.11.0',
         'sklearn==0.0',
-        'urllib3==1.23',
+        'urllib3==1.24.2',
         'xlrd==1.1.0',
         'dash==0.21.0',  # The core dash backend
         'dash-renderer==0.11.3',  # The dash front-end
