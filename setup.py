@@ -46,7 +46,7 @@ setup(
         'chardet==3.0.4',
         'idna==2.6',
         'lmfit==0.9.8',
-        'numpy==1.14.2',
+        'numpy==1.22.0',
         'pandas==0.22.0',
         'PeakUtils==1.1.1',
         'python-dateutil==2.7.0',
